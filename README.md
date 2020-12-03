@@ -1,2 +1,2 @@
 # Servo
-En labb för att styra en servo
+A lab to control a servo
